@@ -1,15 +1,10 @@
-👋Hi, I’m @bowfun!
+🚀 CEO and Founder at @BlastOffWaters | 💻 Full-stack Developer | 🚴‍♂️ Biking Enthusiast
 
-💻I’m interested in coding and living life.
+- 🌐 Exploring the coding universe with JavaScript, Java, and Python.
+- 🔧 Crafting Next.JS magic for web applications.
+- 🎮 Leveling up the gaming experience as the mind behind @BowNetwork Minecraft server.
 
-🚲Fun fact: I really like biking.
+- 👨‍💻 Constantly iterating, learning, and embracing minimalism.
+- 🌱 On a journey of coding excellence with a passion for React.
 
-🎓I’m currently learning JavaScript, React, and Java.
-
-🤝I’m not looking to collaborate on anything at the moment.
-
-🏠As like some other developers, I'm introverted.
-
-✉How to reach me: My email is bowfun@bownet.xyz and my Discord is @bowfun.
-
-👨‍💻Developing for my company, Blast Off Waters.
+Connect with me and let's code the future together! 🌟
