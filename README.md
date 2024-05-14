@@ -7,5 +7,4 @@
 - 👨‍💻 Constantly iterating, learning, and embracing minimalism.
 - 🌱 On a journey to better myself mentally.
 
-Discord: bowfun
-Connect with me and let's code the future together! 🌟
+- 💬Discord: bowfun
