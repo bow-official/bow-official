@@ -1,4 +1,4 @@
-🚀 CEO and Founder at [@BlastOffWaters](https://github.com/blastoffwaters) | 💻 Full-stack Developer | 🚴‍♂️ Biking Enthusiast
+🚀 CEO and Founder at [@BlastOffWaters](https://github.com/blastoffwaters) | 💻 Full-stack Developer
 
 - 🌐 Exploring the coding universe with JavaScript, Java, and Python.
 - 🔧 Using Next.JS to make magic for web applications.
